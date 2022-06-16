@@ -3,7 +3,7 @@ description: Flutter extension to logger to show logs easily shile debugging
 version: 0.0.1
 
 environment:
-  sdk: ">=2.17.0 <3.0.0"
+  sdk: ">=2.15.0 <3.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
